@@ -5,3 +5,4 @@ print('hello')
 def greet():
 	print('Hello from advanced new feature')
 greet()
+print('new update')
